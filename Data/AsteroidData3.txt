@@ -1,0 +1,15 @@
+Veldspar 400 0 0 0 0 0 0 0
+Scordite 150 90 0 0 0 0 0 0
+Pyroxeres 0 90 30 0 0 0 0 0
+Plagioclase 175 0 70 0 0 0 0 0
+Omber 0 90 0 75 0 0 0 0
+Kernite 0 0 60 120 0 0 0 0
+Jaspet 0	0	150	0	50	0	0	0
+Hemorphite	0	0	0	240	90	0	0	0
+Hedbergite	0	450	0	0	120	0	0	0
+Gneiss	0	2000	1500	800	0	0	0	0
+Spodumain	48000	0	0	1000	160	80	40	0
+Crokite	0	800	2000	0	800	0	0	0
+Bistot	0	3200	1200	0	0	160	0	0
+Arkonor	0	3200	1200	0	0	0	120	0
+Mercoxit	0	0	0	0	0	0	0	140
